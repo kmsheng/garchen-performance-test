@@ -1,0 +1,21 @@
+{
+  "name": "garchen-performance-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "karmapa-log": "0.0.1",
+    "ramda": "0.24.1",
+    "rimraf": "2.6.2",
+    "seed-random": "2.2.0",
+    "sleep-promise": "2.0.0",
+    "sql.js": "0.4.0",
+    "sqlite3": "3.1.9",
+    "trilogy": "https://github.com/karmapa17/trilogy.git#v1.3.1"
+  }
+}
